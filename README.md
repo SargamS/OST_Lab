@@ -1,5 +1,9 @@
-🌐 Open Source Technology Lab (OST Lab) – IGDTUW
-This repository contains lab assignments, code, and documentation for the Open Source Technology Lab at IGDTUW.
+# 🌐 Open Source Technology Lab (OST Lab) – IGDTUW
 
-🧪 Experiments
-✅ Exp 1: Intro to Git and GitHub
+This repository contains lab assignments, code, and documentation for the **Open Source Technology Lab** at **IGDTUW**.
+
+---
+
+## 🧪 Experiments
+
+- ✅ **Exp 1:** Intro to Git and GitHub  
