@@ -1,4 +1,4 @@
-# 🌐 Open Source Technology Lab (OST Lab) – IGDTUW
+# Open Source Technology Lab (OST Lab)
 
 This repository contains lab assignments, code, and documentation for the **Open Source Technology Lab** at **IGDTUW**.
 
